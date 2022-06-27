@@ -8,6 +8,7 @@
 
 Spreadsheets:
 
+* [cad] - generate script for CAD.
 * [circle] - finding the center and radius of the circle or ellips.
 * [conformaltrans] - conformal transformation: 1-5 power and Helmert.
 * [ellipsoid] - the Gauss-Krüger and other transformation.
