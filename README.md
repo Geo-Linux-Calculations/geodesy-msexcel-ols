@@ -14,6 +14,7 @@ Spreadsheets:
 * [ellipsoid] - the Gauss-Krüger and other transformation.
 * [tunnel] - tunnel tracking.
 * DDMMSS-DD.xls - DDMMSS to DD.DDDD transform.
+* distance_to_plane.xls - processing facade geodetic survey
 * ols-one-sys.gnumeric - finding a plane for a set of points.
 * ols-orientir.gnumeric - direct geodetic intersection (in azimuths).
 * tricolor-interp-pts.xls - "coloring" triangles in geodesy
