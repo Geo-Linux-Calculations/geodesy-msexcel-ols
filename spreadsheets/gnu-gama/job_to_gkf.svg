@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN'
+  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg version='1.1'  width='21.4093' height='16.2626' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' >
+<g style='stroke:black;stroke-width:0.00784833;'>
+<polyline points='0.784833,12.3385 0.784833,15.4778 3.92416,15.4778 ' style='fill:none;' />
+<polyline points='0.855467,12.6916 0.784833,12.3385 0.714198,12.6916 ' style='fill:none;' />
+<polyline points='3.57099,15.4072 3.92416,15.4778 3.57099,15.5484 ' style='fill:none;' />
+</g>
+<text font-family='sans-serif' font-size='0.313933' x='0.784833' y='12.0245' style='text-anchor: middle;'>X</text>
+<text font-family='sans-serif' x='4.2381' y='15.4778' font-size='0.313933' style='dominant-baseline: central;'> Y</text>
+<line x1='13.2752' y1='7.55948' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='12.5956' y1='7.55991' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='9.4086' y1='6.82254' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='6.61041' y1='7.5637' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='5.47907' y1='7.56621' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='13.2687' y1='8.31215' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='12.1589' y1='8.31322' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='12.1687' y1='8.31356' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='9.36021' y1='8.31009' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='6.63054' y1='8.31134' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='5.48892' y1='8.31821' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='12.7737' y1='7.52997' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='6.13392' y1='10.7529' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='7.29662' y1='1.15241' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='10.2544' y1='0.412707' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='13.0945' y1='9.11241' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='5.97192' y1='9.04101' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='5.98072' y1='10.543' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<line x1='13.1095' y1='12.0311' x2='9.45385' y2='9.1414' style='stroke:black;stroke-width:0.00784833;' />
+<circle cx='13.2752' cy='7.55948' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='13.2752' y='7.55948' >1000</text>
+<ellipse  rx='5.36033' ry='0.779504' transform='translate(13.2752 7.55948) rotate(157.609)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='12.5956' cy='7.55991' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='12.5956' y='7.55991' >1001</text>
+<ellipse  rx='4.99935' ry='0.684344' transform='translate(12.5956 7.55991) rotate(153.407)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='9.4086' cy='6.82254' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='9.4086' y='6.82254' >1002</text>
+<ellipse  rx='3.20834' ry='0.59533' transform='translate(9.4086 6.82254) rotate(268.843)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='6.61041' cy='7.5637' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='6.61041' y='7.5637' >1003</text>
+<ellipse  rx='4.59436' ry='0.634476' transform='translate(6.61041 7.5637) rotate(208.863)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='5.47907' cy='7.56621' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='5.47907' y='7.56621' >1004</text>
+<ellipse  rx='5.35923' ry='0.790161' transform='translate(5.47907 7.56621) rotate(201.524)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='13.2687' cy='8.31215' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='13.2687' y='8.31215' >1005</text>
+<ellipse  rx='5.34798' ry='0.732198' transform='translate(13.2687 8.31215) rotate(167.795)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='12.1589' cy='8.31322' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='12.1589' y='8.31322' >1006</text>
+<ellipse  rx='4.42193' ry='0.562884' transform='translate(12.1589 8.31322) rotate(163.093)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='12.1687' cy='8.31356' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='12.1687' y='8.31356' >1007</text>
+<ellipse  rx='4.4335' ry='0.564247' transform='translate(12.1687 8.31356) rotate(163.156)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='9.36021' cy='8.31009' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='9.36021' y='8.31009' >1008</text>
+<ellipse  rx='1.47423' ry='0.456796' transform='translate(9.36021 8.31009) rotate(263.051)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='6.63054' cy='8.31134' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='6.63054' y='8.31134' >1009</text>
+<ellipse  rx='4.44164' ry='0.568545' transform='translate(6.63054 8.31134) rotate(196.278)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='5.48892' cy='8.31821' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='5.48892' y='8.31821' >1010</text>
+<ellipse  rx='5.34704' ry='0.744561' transform='translate(5.48892 8.31821) rotate(191.677)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='12.7737' cy='7.52997' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='12.7737' y='7.52997' >OKD-11</text>
+<ellipse  rx='5.16352' ry='0.710945' transform='translate(12.7737 7.52997) rotate(154.224)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<circle cx='6.13392' cy='10.7529' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='6.13392' y='10.7529' >OKD-12</text>
+<ellipse  rx='5.1637' ry='0.70265' transform='translate(6.13392 10.7529) rotate(154.234)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+<polyline points='7.10826,1.26116 7.48498,1.26116 7.29662,0.934908 7.10826,1.26116 '  style='stroke:black;fill:blue;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='7.29662' y='1.15241' >OKD-4</text>
+<polyline points='10.0661,0.521459 10.4428,0.521459 10.2544,0.195208 10.0661,0.521459 '  style='stroke:black;fill:blue;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='10.2544' y='0.412707' >OKD-5</text>
+<polyline points='12.9062,9.22116 13.2829,9.22116 13.0945,8.89491 12.9062,9.22116 '  style='stroke:black;fill:blue;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='13.0945' y='9.11241' >OKD-K3-1</text>
+<polyline points='5.78356,9.14976 6.16028,9.14976 5.97192,8.82351 5.78356,9.14976 '  style='stroke:black;fill:blue;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='5.97192' y='9.04101' >OKD-K3-4</text>
+<polyline points='5.79236,10.6518 6.16908,10.6518 5.98072,10.3255 5.79236,10.6518 '  style='stroke:black;fill:blue;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='5.98072' y='10.543' >OKD-K5P</text>
+<polyline points='12.9212,12.1399 13.2979,12.1399 13.1095,11.8136 12.9212,12.1399 '  style='stroke:black;fill:blue;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='13.1095' y='12.0311' >OKD-K7L</text>
+<circle cx='9.45385' cy='9.1414' r='0.156967'  style='stroke:black;fill:yellow;stroke-width:0.00784833;'/>
+<text font-family='sans-serif' transform='translate(0.251146 0.251146)' font-size='0.313933' x='9.45385' y='9.1414' >ST</text>
+<ellipse  rx='0.435862' ry='0.229336' transform='translate(9.45385 9.1414) rotate(180.792)' style='stroke:grey;stroke-width:0.00784833;fill:none;' />
+</svg>

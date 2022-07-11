@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+
+<gama-local xmlns="http://www.gnu.org/software/gama/gama-local">
+<network axes-xy="ne" angles="left-handed">
+
+<description>
+2022-07-11 19:53:10
+</description>
+
+<parameters
+   sigma-apr = "10"
+   conf-pr = "0.95"
+   tol-abs = "1000"
+   sigma-act = "aposteriori"
+/>
+
+<points-observations distance-stdev='5.0' zenith-angle-stdev='30.9' direction-stdev='30.9' >
+
+
+    <point id='OKD-4' x='14588.7117' y='7471.2970' z='98.7445' fix='xyz' />
+    <point id='OKD-5' x='14589.4514' y='7474.2548' z='97.7433' fix='xyz' />
+    <point id='OKD-K3-1' x='14580.7517' y='7477.0949' z='96.8713' fix='xyz' />
+    <point id='OKD-K3-4' x='14580.8231' y='7469.9723' z='97.6075' fix='xyz' />
+    <point id='OKD-K5P' x='14579.3211' y='7469.9811' z='97.6057' fix='xyz' />
+    <point id='OKD-K7L' x='14577.8330' y='7477.1099' z='96.8789' fix='xyz' />
+    <point id='OKD-11' adj='xyz' />
+    <point id='OKD-12' adj='xyz' />
+    <point id='ST' adj='xyz' />
+    <point id='1000' adj='xyz' />
+    <point id='1001' adj='xyz' />
+    <point id='1002' adj='xyz' />
+    <point id='1003' adj='xyz' />
+    <point id='1004' adj='xyz' />
+    <point id='1005' adj='xyz' />
+    <point id='1006' adj='xyz' />
+    <point id='1007' adj='xyz' />
+    <point id='1008' adj='xyz' />
+    <point id='1009' adj='xyz' />
+    <point id='1010' adj='xyz' />
+
+
+    <obs from='ST'>
+        <s-distance to='OKD-4' val='8.6050' /> <z-angle to='OKD-4' val='74-05-12' /> <direction to='OKD-4' val='234-23-21' />
+        <s-distance to='OKD-5' val='8.8690' /> <z-angle to='OKD-5' val='81-11-20' /> <direction to='OKD-5' val='254-44-20' />
+        <s-distance to='OKD-K3-1' val='3.6700' /> <z-angle to='OKD-K3-1' val='82-26-22' /> <direction to='OKD-K3-1' val='339-03-13' />
+        <s-distance to='OKD-K3-4' val='3.6900' /> <z-angle to='OKD-K3-4' val='70-40-06' /> <direction to='OKD-K3-4' val='161-09-36' />
+        <s-distance to='OKD-K5P' val='3.9380' /> <z-angle to='OKD-K5P' val='71-57-19' /> <direction to='OKD-K5P' val='137-31-20' />
+        <s-distance to='OKD-K7L' val='4.6850' /> <z-angle to='OKD-K7L' val='83-57-52' /> <direction to='OKD-K7L' val='17-49-28' />
+        <s-distance to='OKD-11' val='3.8890' /> <z-angle to='OKD-11' val='71-36-09' /> <direction to='OKD-11' val='313-36-28' />
+        <s-distance to='OKD-12' val='3.8890' /> <z-angle to='OKD-12' val='288-23-29' /> <direction to='OKD-12' val='133-36-29' />
+        <s-distance to='1000' val='4.1960' /> <z-angle to='1000' val='99-42-46' /> <direction to='1000' val='317-00-42' />
+        <s-distance to='1001' val='3.8310' /> <z-angle to='1001' val='66-39-14' /> <direction to='1001' val='312-46-48' />
+        <s-distance to='1002' val='3.9830' /> <z-angle to='1002' val='35-36-45' /> <direction to='1002' val='248-22-54' />
+        <s-distance to='1003' val='3.8620' /> <z-angle to='1003' val='57-21-08' /> <direction to='1003' val='188-31-25' />
+        <s-distance to='1004' val='4.3390' /> <z-angle to='1004' val='99-48-46' /> <direction to='1004' val='181-07-04' />
+        <s-distance to='1005' val='3.9710' /> <z-angle to='1005' val='100-32-36' /> <direction to='1005' val='327-14-09' />
+        <s-distance to='1006' val='3.4940' /> <z-angle to='1006' val='54-03-54' /> <direction to='1006' val='322-28-39' />
+        <s-distance to='1007' val='3.4960' /> <z-angle to='1007' val='54-16-38' /> <direction to='1007' val='322-32-29' />
+        <s-distance to='1008' val='3.3410' /> <z-angle to='1008' val='14-30-03' /> <direction to='1008' val='243-04-23' />
+        <s-distance to='1009' val='3.6190' /> <z-angle to='1009' val='54-24-19' /> <direction to='1009' val='175-52-59' />
+        <s-distance to='1010' val='4.1200' /> <z-angle to='1010' val='100-36-56' /> <direction to='1010' val='171-13-43' />
+    </obs>
+
+    <obs from='ST'>
+        <s-distance to='OKD-K7L' val='4.6840' /> <z-angle to='OKD-K7L' val='276-02-01' /> <direction to='OKD-K7L' val='197-49-38' />
+        <s-distance to='OKD-K5P' val='3.9390' /> <z-angle to='OKD-K5P' val='288-02-37' /> <direction to='OKD-K5P' val='317-31-29' />
+        <s-distance to='OKD-K3-4' val='3.6910' /> <z-angle to='OKD-K3-4' val='289-19-47' /> <direction to='OKD-K3-4' val='341-09-40' />
+        <s-distance to='OKD-K3-1' val='3.6710' /> <z-angle to='OKD-K3-1' val='277-33-21' /> <direction to='OKD-K3-1' val='159-03-29' />
+        <s-distance to='OKD-5' val='8.8690' /> <z-angle to='OKD-5' val='278-48-34' /> <direction to='OKD-5' val='74-44-26' />
+        <s-distance to='OKD-4' val='8.6040' /> <z-angle to='OKD-4' val='285-54-52' /> <direction to='OKD-4' val='54-23-23' />
+    </obs>
+
+</points-observations>
+
+</network>
+</gama-local>
