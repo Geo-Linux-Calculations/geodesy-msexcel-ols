@@ -13,12 +13,10 @@ Spreadsheets:
 * [conformaltrans] - conformal transformation: 1-5 power and Helmert.
 * [ellipsoid] - the Gauss-Krüger and other transformation.
 * [gnu-gama] - transformation of JOB (S,Z,A) to GNU Gama (XML) format.
+* [plane] - processing facade and plane geodetic survey
 * [tunnel] - tunnel tracking.
 * DDMMSS-DD.xls - DDMMSS to DD.DDDD transform.
-* distance_to_plane.xls - processing facade geodetic survey
-* ols-one-sys.gnumeric - finding a plane for a set of points.
 * ols-orientir.gnumeric - direct geodetic intersection (in azimuths).
-* tricolor-interp-pts.xls - "coloring" triangles in geodesy
 
 URL: https://github.com/Geo-Linux-Calculations/geodesy-msexcel-ols
 
