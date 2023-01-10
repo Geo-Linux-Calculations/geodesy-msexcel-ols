@@ -16,10 +16,11 @@ Spreadsheets:
 * [plane] - processing facade and plane geodetic survey
 * [tunnel] - tunnel tracking.
 * DDMMSS-DD.xls - DDMMSS to DD.DDDD transform.
-* ols-orientir.gnumeric - direct geodetic intersection (in azimuths).
+* ols-fixed-points.xls - OLS with fixed points.
+* ols-orientir.xls - direct geodetic intersection (in azimuths).
 
 URL: https://github.com/Geo-Linux-Calculations/geodesy-msexcel-ols
 
 ---  
-2022  
+2023  
 zvezdochiot
