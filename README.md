@@ -10,7 +10,7 @@ Spreadsheets:
 
 * [cad] - generate script for CAD.
 * [circle] - finding the center and radius of the circle or ellips.
-* [conformaltrans] - conformal transformation: 1-5 power and Helmert.
+* [conformaltrans] - conformal transformation: 1-5 power + affinetrans + Helmert.
 * [ellipsoid] - the Gauss-Krüger and other transformation.
 * [gnu-gama] - transformation of JOB (S,Z,A) to GNU Gama (XML) format.
 * [plane] - processing facade and plane geodetic survey
